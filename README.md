@@ -29,8 +29,7 @@ A full-stack To-Do List application built using **React**, **Node.js**, **Expres
 
 
 
-```
-```
+
 ## 📂 Project Structure
 
 ```
