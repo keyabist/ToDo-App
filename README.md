@@ -26,7 +26,6 @@ A full-stack To-Do List application built using **React**, **Node.js**, **Expres
 - 🗑️ Delete tasks
 - ✅ Mark tasks as completed
 - 🧹 Clear all tasks
-- 🔁 Real-time UI updates after each action
 
 
 ```
